@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">B_Thames</string>
+    <string name="welcome_to_bthames">Welcome to BThames</string>
+    <string name="verify">Verify</string>
+    <string name="todo">TODO</string>
+    <string name="enter_the_phone_no">Enter the phone no</string>
+    <string name="enter_otp">Enter Otp</string>
+    <string name="enter_otp1">Enter Otp</string>
+    <string name="submit">submit</string>
+    <string name="verify01">Verify</string>
+    <string name="starts_at_699">Starts at 699</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
