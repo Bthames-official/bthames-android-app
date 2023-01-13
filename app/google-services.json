@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "127136141223",
+    "project_id": "bthames-android",
+    "storage_bucket": "bthames-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127136141223:android:5dbef18467f105b5497082",
+        "android_client_info": {
+          "package_name": "com.example.b_thames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127136141223-tmpcbug5diujf3l0h12bpdpttjn2vlah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.b_thames",
+            "certificate_hash": "9cf7628ff33d10e489fda5dc7fb3a3a32cfd77e6"
+          }
+        },
+        {
+          "client_id": "127136141223-36rjj9spok6unnvcip2potb9pb43stp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqLP5NPpr6cdtstmOpWTatGugSkztWAfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127136141223-36rjj9spok6unnvcip2potb9pb43stp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
